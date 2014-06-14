@@ -1,4 +1,4 @@
 mpCache
 =======
 
-Simplu cache pentru incepatori
+Un Cache simplu pentru incepatori
