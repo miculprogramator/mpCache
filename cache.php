@@ -4,7 +4,7 @@
  * @Package: Micul-Programator.ro simple cache
  * @Author: Marian
  * @$Date: 06/14/2014
- * @Contact: contact@micul-programato.ro
+ * @Contact: contact@micul-programator.ro
  * @$Rev: 1 
  */
 class mpCache {
