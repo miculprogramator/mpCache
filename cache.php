@@ -24,7 +24,7 @@ class mpCache {
 
 		if ( !$identificator || !count($data) ) { return false; }
 
-		file_put_contents(trim(mpCache::$_dir.$identificator).".json",json_encode($data));
+		file_put_contents(trim(mpCache::$_dir.$identificator).".json",json_encode($data),LOCK_EX);
 
 	}
 
